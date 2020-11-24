@@ -1,0 +1,7 @@
+List of fruits:
+Apple
+Banana
+Orange
+Mango
+Chikoo
+Papayee
